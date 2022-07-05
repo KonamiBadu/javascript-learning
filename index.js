@@ -1,1 +1,1 @@
-alert ( `ou rekonet Badu ?` )
+console.log("Hello Bastard kkkkkk");
