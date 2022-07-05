@@ -1,0 +1,1 @@
+alert ( `ou rekonet Badu ?` )
